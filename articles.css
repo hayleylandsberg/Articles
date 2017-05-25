@@ -1,0 +1,86 @@
+h1 {
+			text-align: center;
+			font-size: 5em;
+			color: white;
+			text-transform: uppercase;
+			border-bottom: 10px solid white;
+			border-top: 10px solid white;
+			padding: 20px;
+			margin-top: 30px;
+			text-shadow: 5px 5px black;
+		}
+
+		section {
+			text-align: center;
+
+		}
+
+		article {
+			background-color: white;
+			padding: 10px;
+			margin: auto;
+			max-width: 65%;
+			border: 2px solid black;
+		}
+
+		h2 {
+			text-align: left;
+			color: black;		
+		}
+
+		.foot {
+			text-align: right;
+			font-weight: bold;
+			color: black;
+			font-size: .8em;
+		}
+
+		.footer {
+			text-align: center;
+			padding-top: 30px;
+			margin: auto;
+			color: white;
+		}
+
+		body {
+			background-color: #00475b;
+		}
+
+		.one {
+			background-color: red;
+			font-family: 'Khula', sans-serif;
+			font-size: 1em;
+			color: white;
+			line-height: 2em;
+			padding: 10px;
+			border-radius: 100%;
+			overflow: hidden;
+		}
+		.two {
+			background-color: yellow;
+			font-family: 'Kumar One', cursive;
+			font-size: .5em;
+			color: green;
+			line-height: 1.5em;
+			padding: 40px;
+			border-radius: 10%;
+		}
+		.three {
+			background-color: green;
+			font-family: 'Metamorphous', cursive;
+			font-size: .25em;
+			color: yellow;
+			line-height: 1em;
+			padding: 30px;
+			border-radius: 100%;
+			overflow: hidden;
+		}
+		.four {
+			background-color: blue;
+			font-family: 'Indie Flower', cursive;
+			font-size: 2em;
+			color: red;
+			line-height: .5em;
+			padding: 70px;
+			border-radius: 10%;
+		}
